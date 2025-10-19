@@ -3,7 +3,8 @@
 👾 Developing my skills in Python - I've been coding in Python since 2023 <br/>
 🌱 I want to learn coding in other languages like HTML and C++ <br/>
 🏫 High school student (Year 11) <br/>
-💫 15, she/her
+💫 15, she/her <br/>
+🎧 I love coding, reading and listening to music
 
 <!--
 **Leila55555/Leila55555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
