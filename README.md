@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, my name is Leila 👋
+
+👾 Developing my skills in Python - I've been coding in Python since 2023
+🌱 I want to learn coding in other languages like HTML and C++
+🏫 High school student (Year 11)
+💫 15, she/her
 
 <!--
 **Leila55555/Leila55555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
