@@ -1,8 +1,8 @@
 ## Hi, my name is Leila 👋
 
-👾 Developing my skills in Python - I've been coding in Python since 2023
-🌱 I want to learn coding in other languages like HTML and C++
-🏫 High school student (Year 11)
+👾 Developing my skills in Python - I've been coding in Python since 2023 <br/>
+🌱 I want to learn coding in other languages like HTML and C++ <br/>
+🏫 High school student (Year 11) <br/>
 💫 15, she/her
 
 <!--
